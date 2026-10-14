@@ -55,9 +55,9 @@
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 <img width="1072" height="666" alt="image" src="https://github.com/user-attachments/assets/2bd6b0f3-efe8-47d9-8360-a64df70caf1b" />
+<img width="1078" height="671" alt="image" src="https://github.com/user-attachments/assets/253f2573-2562-41e8-9949-b35059921428" />
 
 ### 3. Ảnh màn hình Kiểm tra lỗi 
-<img width="1078" height="671" alt="image" src="https://github.com/user-attachments/assets/253f2573-2562-41e8-9949-b35059921428" />
 <img width="1077" height="662" alt="image" src="https://github.com/user-attachments/assets/b876a1e8-0fd3-4be0-a191-58c3edb336c7" />
 <img width="1072" height="666" alt="image" src="https://github.com/user-attachments/assets/a63a8194-c717-4155-98ee-3b4ffdc3953a" />
 
