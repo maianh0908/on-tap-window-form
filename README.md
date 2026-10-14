@@ -54,6 +54,10 @@
 <img width="1123" height="606" alt="image" src="https://github.com/user-attachments/assets/3401b352-170e-48e7-bd17-65960b9dbf3a" />
 <img width="1122" height="611" alt="image" src="https://github.com/user-attachments/assets/8704925a-4cd6-4301-8902-1d06d07e56d6" />
 <img width="1126" height="615" alt="image" src="https://github.com/user-attachments/assets/c51d3649-abaa-4008-9201-ff8abdfd82d9" />
+<img width="1122" height="607" alt="image" src="https://github.com/user-attachments/assets/630e5632-0c85-475e-a31f-a3bc62034a3d" />
+<img width="1120" height="608" alt="image" src="https://github.com/user-attachments/assets/affa3c34-dfab-4c96-8eea-8800fbca6bbd" />
+<img width="1122" height="617" alt="image" src="https://github.com/user-attachments/assets/753c5070-5d89-47fd-ba2f-272d79786f80" />
+<img width="1126" height="615" alt="image" src="https://github.com/user-attachments/assets/a492a1ea-692e-4f47-971b-91d35c719ce5" />
 
 
 ### Ảnh màn hình Bài 4: Sơ đồ chọn vị trí chỗ ngồi / Đặt bàn hẹn giờ (Interactive Slot Booking)
