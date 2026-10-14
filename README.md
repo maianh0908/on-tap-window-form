@@ -21,6 +21,10 @@
 ### 3. Ảnh màn hình Kiểm tra lỗi 
 <img width="600" height="462" alt="image" src="https://github.com/user-attachments/assets/693f3df8-e36f-443f-b70e-19857cd0520a" />
 <img width="600" height="457" alt="image" src="https://github.com/user-attachments/assets/9e2a972f-9386-48c3-b7dd-aafb37206981" />
+<img width="602" height="467" alt="image" src="https://github.com/user-attachments/assets/d9897b83-6f64-4306-9246-a4a927b5d751" />
+<img width="600" height="467" alt="image" src="https://github.com/user-attachments/assets/f9a25efd-fc58-46dc-ac48-fb5daa88fcca" />
+<img width="600" height="461" alt="image" src="https://github.com/user-attachments/assets/3d389520-e1c2-4350-b0aa-32f3bd52d254" />
+<img width="601" height="463" alt="image" src="https://github.com/user-attachments/assets/39402c28-1e3a-4265-a96f-d871ab47ff76" />
 
 
 ### Ảnh màn hình Bài 2: Form Tiếp nhận & Phân loại sự cố IT (IT Support Ticket Form)
@@ -33,6 +37,9 @@
 ### 3. Ảnh màn hình Kiểm tra lỗi 
 <img width="977" height="567" alt="image" src="https://github.com/user-attachments/assets/c457a684-d798-4510-942b-a222a0f56e54" />
 <img width="972" height="567" alt="image" src="https://github.com/user-attachments/assets/433d6ae6-9ac9-42eb-a67f-c476a4b5fdad" />
+<img width="973" height="572" alt="image" src="https://github.com/user-attachments/assets/820e827e-8f58-420d-90d6-de5cbb85accc" />
+<img width="972" height="567" alt="image" src="https://github.com/user-attachments/assets/10b92f6d-d933-4db4-9ea3-c6097b518a7a" />
+
 
 
 ### Ảnh màn hình Bài 3: Quản lý danh mục Vật tư / Linh kiện (Item List Manager)
