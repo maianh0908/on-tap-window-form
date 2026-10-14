@@ -12,10 +12,12 @@
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Ảnh màn hình Bài 1: máy tính tính cước dịch vụ & Giảm giá (Service Charge Calculator)
+<img width="503" height="438" alt="image" src="https://github.com/user-attachments/assets/780a2ed3-997f-490b-b5ef-948079be41ef" />
 <img width="498" height="437" alt="Screenshot 2026-10-14 140945" src="https://github.com/user-attachments/assets/a7b2f015-0686-4bae-85c2-b025763c2002" />
 <img width="502" height="436" alt="Screenshot 2026-10-14 140956" src="https://github.com/user-attachments/assets/5d56353b-f228-4f01-9172-d79db6d1dd83" />
 
 ### 2. Ảnh màn hình Bài 2: Form Tiếp nhận & Phân loại sự cố IT (IT Support Ticket Form)
+<img width="866" height="621" alt="image" src="https://github.com/user-attachments/assets/0f6fec58-acc2-4b39-be3f-8ab9a8ac91e6" />
 <img width="863" height="617" alt="Screenshot 2026-10-14 141126" src="https://github.com/user-attachments/assets/6fd4b1e9-8859-4c99-949d-35f500471d16" />
 <img width="872" height="607" alt="Screenshot 2026-10-14 141348" src="https://github.com/user-attachments/assets/a0d372f3-4cb1-494b-a1bf-3603624757b9" />
 
