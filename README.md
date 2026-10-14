@@ -12,31 +12,39 @@
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Ảnh màn hình Bài 1: máy tính tính cước dịch vụ & Giảm giá (Service Charge Calculator)
-<img width="503" height="438" alt="image" src="https://github.com/user-attachments/assets/780a2ed3-997f-490b-b5ef-948079be41ef" />
-<img width="498" height="437" alt="Screenshot 2026-10-14 140945" src="https://github.com/user-attachments/assets/a7b2f015-0686-4bae-85c2-b025763c2002" />
-<img width="502" height="436" alt="Screenshot 2026-10-14 140956" src="https://github.com/user-attachments/assets/5d56353b-f228-4f01-9172-d79db6d1dd83" />
+<img width="600" height="462" alt="image" src="https://github.com/user-attachments/assets/58b7edd9-1112-4998-820b-4c4f9b43c6a4" />
+<img width="601" height="458" alt="image" src="https://github.com/user-attachments/assets/e7fedd40-0611-40e2-9ba2-cf9b9f4adf05" />
+<img width="600" height="462" alt="image" src="https://github.com/user-attachments/assets/693f3df8-e36f-443f-b70e-19857cd0520a" />
+<img width="600" height="457" alt="image" src="https://github.com/user-attachments/assets/9e2a972f-9386-48c3-b7dd-aafb37206981" />
+
 
 ### 2. Ảnh màn hình Bài 2: Form Tiếp nhận & Phân loại sự cố IT (IT Support Ticket Form)
-<img width="866" height="621" alt="image" src="https://github.com/user-attachments/assets/0f6fec58-acc2-4b39-be3f-8ab9a8ac91e6" />
-<img width="863" height="617" alt="Screenshot 2026-10-14 141126" src="https://github.com/user-attachments/assets/6fd4b1e9-8859-4c99-949d-35f500471d16" />
-<img width="872" height="607" alt="Screenshot 2026-10-14 141348" src="https://github.com/user-attachments/assets/a0d372f3-4cb1-494b-a1bf-3603624757b9" />
+<img width="973" height="568" alt="image" src="https://github.com/user-attachments/assets/ad9ec2bf-115c-4873-8934-dae57d028ad7" />
+<img width="978" height="573" alt="image" src="https://github.com/user-attachments/assets/c4e5ca67-3bee-4108-9d2f-3c651bc4e792" />
+<img width="977" height="567" alt="image" src="https://github.com/user-attachments/assets/c457a684-d798-4510-942b-a222a0f56e54" />
+<img width="972" height="567" alt="image" src="https://github.com/user-attachments/assets/433d6ae6-9ac9-42eb-a67f-c476a4b5fdad" />
+
 
 ### 3. Ảnh màn hình Bài 3: Quản lý danh mục Vật tư / Linh kiện (Item List Manager)
-<img width="938" height="520" alt="Screenshot 2026-10-14 141510" src="https://github.com/user-attachments/assets/49709023-d202-4788-88c6-afd69f05a86c" />
-<img width="932" height="517" alt="Screenshot 2026-10-14 141528" src="https://github.com/user-attachments/assets/dc10b2f0-9119-48f8-af3c-acdf0542e874" />
-<img width="938" height="517" alt="Screenshot 2026-10-14 141542" src="https://github.com/user-attachments/assets/2e1fb798-b127-4259-a9c6-91047cde4cdd" />
-<img width="936" height="517" alt="Screenshot 2026-10-14 141554" src="https://github.com/user-attachments/assets/377b1b0d-f8b7-4c23-af38-45d18ae06bc6" />
-<img width="936" height="521" alt="Screenshot 2026-10-14 141604" src="https://github.com/user-attachments/assets/f115815d-a4d4-4e79-9b82-8c71e929c0a7" />
+<img width="1126" height="612" alt="image" src="https://github.com/user-attachments/assets/e063194c-1849-4206-a2c8-d69404a408ea" />
+<img width="1127" height="610" alt="image" src="https://github.com/user-attachments/assets/8e992391-e84a-446d-bd8e-91fa0246b58c" />
+<img width="1125" height="612" alt="image" src="https://github.com/user-attachments/assets/12e71fdc-5a65-47c8-9ffb-a1c90d5bfc29" />
+<img width="1123" height="606" alt="image" src="https://github.com/user-attachments/assets/3401b352-170e-48e7-bd17-65960b9dbf3a" />
+<img width="1122" height="611" alt="image" src="https://github.com/user-attachments/assets/8704925a-4cd6-4301-8902-1d06d07e56d6" />
+<img width="1126" height="615" alt="image" src="https://github.com/user-attachments/assets/c51d3649-abaa-4008-9201-ff8abdfd82d9" />
+
 
 ### 4. Ảnh màn hình Bài 4: Sơ đồ chọn vị trí chỗ ngồi / Đặt bàn hẹn giờ (Interactive Slot Booking)
-<img width="882" height="575" alt="Screenshot 2026-10-14 141655" src="https://github.com/user-attachments/assets/166c1d26-8835-449d-9d0e-34e1cfc00ce5" />
-<img width="882" height="576" alt="Screenshot 2026-10-14 141715" src="https://github.com/user-attachments/assets/20072609-8565-4dd0-a4c2-f1f8b01100c9" />
-<img width="878" height="576" alt="Screenshot 2026-10-14 141728" src="https://github.com/user-attachments/assets/225dcae5-4bc4-4abc-bf03-30553760f1f6" />
+<img width="1075" height="667" alt="image" src="https://github.com/user-attachments/assets/9973c4a5-21de-4f1a-8bdb-da9eaf01de76" />
+<img width="1072" height="666" alt="image" src="https://github.com/user-attachments/assets/2bd6b0f3-efe8-47d9-8360-a64df70caf1b" />
+<img width="1078" height="671" alt="image" src="https://github.com/user-attachments/assets/253f2573-2562-41e8-9949-b35059921428" />
+<img width="1077" height="662" alt="image" src="https://github.com/user-attachments/assets/b876a1e8-0fd3-4be0-a191-58c3edb336c7" />
+<img width="1072" height="666" alt="image" src="https://github.com/user-attachments/assets/a63a8194-c717-4155-98ee-3b4ffdc3953a" />
 
 
 ### 5. Ảnh màn hình Bài 5: Bảng điều khiển Quản lý Đơn giao hàng (Delivery Order Dashboard)
-<img width="1140" height="786" alt="Screenshot 2026-10-14 141944" src="https://github.com/user-attachments/assets/4b3bee94-550b-4353-8cbf-c9005ba8645e" />
-<img width="1145" height="797" alt="Screenshot 2026-10-14 142022" src="https://github.com/user-attachments/assets/ec36017c-17fc-44a3-be1c-4599d5c26b7e" />
-<img width="1142" height="781" alt="Screenshot 2026-10-14 142106" src="https://github.com/user-attachments/assets/e332ecbb-7aa8-4be8-992e-6906d96e10b4" />
-
+<img width="1378" height="812" alt="image" src="https://github.com/user-attachments/assets/d3328dbf-b715-4f6f-aa88-119c1af6f636" />
+<img width="1375" height="816" alt="image" src="https://github.com/user-attachments/assets/89a2cb6b-2fcd-436c-94fc-2014d55f1947" />
+<img width="1372" height="808" alt="image" src="https://github.com/user-attachments/assets/01be3790-e829-471c-a296-049933fdc758" />
+<img width="1382" height="821" alt="image" src="https://github.com/user-attachments/assets/24ae4800-811e-4f62-bfe2-7c6b08da8f6b" />
 
